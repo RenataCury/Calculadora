@@ -51,4 +51,4 @@ int main() {
 
 ## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para reportar bugs ou propor novas funcionalidades.
+Sinta-se à vontade para abrir uma issue para reportar bugs ou propor novas funcionalidades.
